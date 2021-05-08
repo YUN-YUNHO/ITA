@@ -1,4 +1,7 @@
 __pycache__/
 model.ckpt*
 tacotron2/__pycache__/
-tacotron2/datasets/__pycache__/
+tacotron2/datasets/__pycache_/
+tacotron2/datasets/1/audio/
+tacotron2/datasets/2/audio/
+tacotron2/logdir-tacotron2/

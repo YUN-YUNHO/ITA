@@ -346,7 +346,7 @@ if __name__ == '__main__':
     
     
     coord = tf.train.Coordinator()
-    data_dirs=['D:\\hccho\\Tacotron-Wavenet-Vocoder-hccho\\data\\moon']
+    data_dirs=['D:\\ITA\tacotron2\\datasets\\1']
     mydatafeed =  DataFeederTacotron2(coord, data_dirs, hparams, config, 32,data_type='train', batch_size=config.batch_size)
 
     
@@ -380,4 +380,3 @@ if __name__ == '__main__':
             print('finally')
             print(e)
             coord.request_stop(e)
-
