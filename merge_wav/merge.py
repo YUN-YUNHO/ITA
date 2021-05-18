@@ -4,7 +4,7 @@ import os
 PATH = './data/'
 OUTPUT_FILENAME = PATH + 'output.wav'
 file_list = os.listdir(PATH)
-
+file_list.sort()
 # files_path = []
 # for _file in file_list:
 #     files_path.append(PATH + _file)
