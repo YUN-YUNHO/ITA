@@ -18,7 +18,7 @@ Human Intellegence | 김지훈
 Human Intellegence | 정승민
 
 ## Development Environment
-in preparation
+In preparation
 
 ## Open Source and Open API
 - [Multi-Speaker Tacotron2 + Wavenet Vocoder + Korean TTS](https://github.com/hccho2/Tacotron2-Wavenet-Korean-TTS)
