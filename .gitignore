@@ -4,3 +4,5 @@ tacotron2/__pycache__/
 tacotron2/datasets/__pycache__/
 *.wav
 .DS_Store/
+waves/
+scripts/
